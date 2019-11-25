@@ -6,5 +6,5 @@ Synthesis data generator python implementation code,it use pillow and opencv. th
   ![alt text](blurred_8040.png)
   
   # Fig: 2
-  ![alt text]blurred_8041.png)
+  ![alt text](blurred_8041.png)
 
